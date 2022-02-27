@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most sad and serious lamentation over the heards-men of the flocke and people of God. Written in Germany in the yeare 1631. and printed there in the beginning of 1639. Now published in English, that all true-hearted-Christians in Great Britaine and Ireland, to whose hands it shall come, may take the same into their consideration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89370</idno>
+            <idno type="STC">Wing M2919</idno>
+            <idno type="STC">Thomason E137_24</idno>
+            <idno type="STC">ESTC R14075</idno>
+            <idno type="EEBO-CITATION">99859609</idno>
+            <idno type="PROQUEST">99859609</idno>
+            <idno type="VID">111701</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111701)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most sad and serious lamentation over the heards-men of the flocke and people of God. Written in Germany in the yeare 1631. and printed there in the beginning of 1639. Now published in English, that all true-hearted-Christians in Great Britaine and Ireland, to whose hands it shall come, may take the same into their consideration.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Thompson, and are to be sold at his shop, over against Lincolnes Inne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111701:1"/>
+            <p>
+               <pb facs="tcp:111701:1" rendition="simple:additions"/> A moſt ſad and ſerious LAMENTATION OVER THE HEARDS-MEN of the Flocke and People of GOD.</p>
+            <p>Written in <hi>Germany</hi> in the yeare 1631. And Printed there in the beginning of 1639.</p>
+            <q>
+               <p>
+                  <hi>Cum facultate ejus, qui erat &amp; eſt &amp; erit.</hi>
+               </p>
+               <bibl>EXOD. 3. REV. I.</bibl>
+            </q>
+            <q>
+               <bibl>EZEK. 19. 1, 2.</bibl>
+               <p>
+                  <hi>But make a Lamentation over the Princes, and Prelates of Iſrael. and thou ſhalt ſay: What? thy mother the Lyonneſſe hath layne among the Lyons, in the middeſt of the young Lyons ſhee hath multiplyed her whelps &amp;c.</hi>
+               </p>
+            </q>
+            <p>Now Publiſhed in Engliſh, that all true-hearted-Chriſtians in Great <hi>Britaine</hi> and
+<hi>Ireland,</hi> to whoſe hands it ſhall come, may take the ſame into their Conſideration.</p>
+            <p>LONDON, Printed for <hi>G. Thompſon,</hi> and are to be ſold at his Shop, over againſt
+<hi>Lincolnes</hi> Inne. 1642.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:111701:2"/>
+            <head>[Ier. 50. Verſ. 6, 7.]</head>
+            <p>
+               <hi>Mr People have beene loſt ſheepe, a forlorne heard, their Heards-men, or Paſtors have cauſed them to errc, they have wandred from the Mountaines, they have gone from the Mountaine to the Hill, they have forgotten their reſting place. All that found them have devoured them, and their enemies ſaid, we have done none unrighteouſneſse, becauſe that they have ſinned againſt the LORD, the habitation of Righteouſneſſe, and againſt the Lord the Hope of their Fathers.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111701:2"/>
+            <head>
+               <note place="margin">Wiſ. 6. Elay 28. Deut. 17.</note> Harken yee Heards-men and Stewards, yee that Lord-it over the People; attend and liſten to the meſſage which the LORD GOD doth ſend unto you yee that lift up your ſelves above your brethren.</head>
+            <p>
+               <note place="margin">Gen. 3 19.</note> 
+               <seg rend="decorInit">A</seg> Certaine great and mighty KING, having appointed Heards-men and overſeers-over the Flocks, and Herds of all his Foulds and Paſtures, men that with all faith<g ref="char:EOLhyphen"/>ful diligence, and in the ſweat of their browes night and day, ſhould tend, and tender their Charge, ſeeke what is loſt, heale and comfort the ſicke and ſeeble, keepe the fat from harme, that they become not a prey to the clawes or jawes of Wolves; and other wild beaſts, but rather that they might grow fat and wel liking, encreaſe and proſper, and bring forth much fruit, and gaine unto their King and maſter.</p>
+            <p>And this ſame King, having likewiſe given a liberall and plenti<g ref="char:EOLhyphen"/>full allowance unto the ſaid Heards-men, of foode and raiment, and other ſuſtance; ſo that they had no reaſon at all to ſeiſe on the ſheep, their ſlecce, milke, fleſh, or bones; or to eſtrange any thing from their Maſter; but rather to feed and keepe the Flocke with all faithfulneſſe, both in the heate by day, and in the cold by night, like <hi>Iacob.</hi>
+               <note place="margin">Gen 31.
+40.</note> 
+            </p>
+            <p>Howbeit alſo theſe hearders had vowed and promiſed in exquiſite tearmes, how tenderly they affected the ſheepe, what care and paines they would take to guard and keepe the fame; yet they performed and held nothing, neverthleſſe they would ſeeme, and be reputed faithfull ſhepherds: they were ſo well inſtructed by their Teachers, in the Art of ſimulation, and diſſimulation, and diſſimulation, and practiſed in falſehood and hypocriſie; and when they ſaid white or light, they meant black, <note place="margin">Eſay 5.</note> and darke. But when as they began to grow wanton, in the enjoying of that plenteous entertainment, which the bounty of their great, and gracious Maſter had beſtowed on them; going about to hoard up glory and Treaſure for themſelves, they choſe Vnder-keepers, and Vice-leaders, and put off the paines of watching and feeding the Flocke, from themſelves upon others.</p>
+            <p>
+               <pb n="2" facs="tcp:111701:3"/> 
+               <note place="margin">Zeph: 1. 9.</note> Theſe under-keepers likewiſe ſought their owne, skipping over their Maſters threſhold, bragging only of their Maſters Intereſts, ſtruggling and ſtriving to fill their owne, and Maſters houſes, with ſubtilties, lyes and deceit; with Robberies, Rapine, and ranſaks; glozing all ſuch practiſes of theirs with a ſpecious Title, which they call the ſhepheards right and prerogative; and ſhewing no pitty <note place="margin">1 Sam. 8.</note> or tenderneſſe at all towards the poore ſheepe, but diſtreſſed, flayed, tore and devoured them greedily, grievouſly, utterly: As for the <note place="margin">Amos 5.</note> Heards-men or Shepheards themſelves, they gave themſelves over to their owne carnall pleaſures, continually and fully to ſatisfie the wilfulneſſe of their own corrupt, and inveigled reaſon. They began to advance ſtill the ſeate of violence in their Governments, and all according to their own greedy luſts, and appetites, and not to con<g ref="char:EOLhyphen"/>forme <note place="margin">Amos 6. Wiſ. 2.</note> and frame their practiſe to the order of the great Monarch, the LORD of Lords, in keeping and feeding the Flocke, committed to their charge. They did eate early day by day, and heated them<g ref="char:EOLhyphen"/>ſelves
+<note place="margin">Eſav 5. Amos 6.</note> with Wine, drinking the ſame in Gilt, and Silver, and Cryſtall Bowles; they ſlept on ſoft and precious beds, and beſides this volup<g ref="char:EOLhyphen"/>tuous fare, they had their Pſalteris, and Muſicall inſtruments, their Trumpets, ſhoutes, hollowings, and jollities. They disported them<g ref="char:EOLhyphen"/>ſelves with the fowles and birds of the Aire, and exerciſed a cruell <note place="margin">Barue 3.</note> and butcherly paſtime with the beaſts of the field, with much care and painefulneſſe, as if the great King and Monarch had appointed this for their only imployment: They ſought out and entertained cunning Maſters of pleaſures, that ſtudied nothing elſe, but to finde out new variety ſtill of pleaſures and delights for the Heardſmen, in ſtatoly, ſumptuous, and far fetcht ſeaſts and banquetings; in gay, ſtrange, and wondefull habits, and accoutrements; in dancing and ſporting, and other the like worldly and carnall wantonneſſes, and vanities: ſo that they went continually but from one pleaſure to ano<g ref="char:EOLhyphen"/>ther, and nothing was more to be ſeene with theſe Heardſ-men, but a continued courſe, and enterchange of luxurie, and bravery; all plea<g ref="char:EOLhyphen"/>ſure, delight, and gloriouſneſſe, the luſt of the eyes, the luſt of the <note place="margin">Amos 6. 1 Iohn
+2.</note> fleſh, and the pride of life. Nay they grew to that paſſe of proud con<g ref="char:EOLhyphen"/>ceit and arrogant inſolence, in their revolted hearts, that they did
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cornefully diſdaine, and ſet at nought; the ſheepe and Flocke of their Lord and Maſter, never regarding nor looking after them, unleſſe it were to ſee them fleeced, and fleyed with the ſharpeſt Razers, even unto bloud, if not life and all: yet condoling them out of a falſe and <note place="margin">Mic. 3. Za. 11.</note>
+               <pb n="3" facs="tcp:111701:3"/> hypocriticall heart, how loath they were to proceede in this manner, but they could no way remedy the ſame, their eſtate and condition required and enforced it ſo. Thus they went on ſtill, and multiplied their pride and luxury, roabing and arraying themſelves, their wives, Children and Servants, with the gory wooll of the ſheepe, in coſtly garments, with Gold, Silver, precious ſtohes, without either ſcope or meaſure of all their riotous and chargeable profuſions: thus their per<g ref="char:EOLhyphen"/>verſneſſe ſtil encreaſed, advancing from one iniquity to another, con<g ref="char:EOLhyphen"/>tinually coveting to have it yet more glorious, more gallat, more ſum<g ref="char:EOLhyphen"/>ptuous; and were not at all troubled for the affliction, and diſtreſſe of the ſheep: further more they hired alſo ſundry wiſe men for themſelvs, filling their hands, and ſeeding them largely with the Milke, Wooll, <note place="margin">1 King. 12. 31. 2 Tim. 4.</note> and Bloud of the Sheepe, to preach lyes unto them, and together with this Luxury, to pleaſe and tickle their vaine eares with a curi<g ref="char:EOLhyphen"/>ous, artificiall, ſweete, and comfortable babling. Theſe were a com<g ref="char:EOLhyphen"/>mending and magnifying the Heardsmen, how they were entruſted with their ſtaffe by ſo great a KING, how worthily they did weld the ſame; they were indeed the Crowne and Glory of the Sheepe. What a deale of toyle and paines they tooke, to lead and governe the Sheep, by the ſame, comforting and promiſing them inſtead, and in the Name of that great KING (though they neither knew, nor were ſent by him) how the ſame KING was ready abundantly to reward their great paines-taking, in his Royall Palaces; for as for thoſe dai<g ref="char:EOLhyphen"/>ly refreſhments, which they now enjoyed, according to their hearts deſires during the attendance of their ſo weighty charge; that was but a ſmall trifling matter, the beſt and true reward ſhould follow them hereafter.</p>
+            <p>By this meanes, namely the ſoothing of ſuch Bablers, theſe Heardſ<g ref="char:EOLhyphen"/>men were mightily encouraged in all their wicked and licentious courſes, that they regarded neither the Will, Charge, and Order of the great KING, nor the good of the Sheepe. But now, when as by all the waſte of this exceſſive Pride and inſolency, the liberall Allow<g ref="char:EOLhyphen"/>ance of the great KING fell ſhort of their expences; then the Heardſ<g ref="char:EOLhyphen"/>men began to forget that they were but Heardſ-men and Servants in truſt, and not Lords and owners of the flocke of the Sheepe, and that they muſt be accomptable unto the great KING their Maſter, that <note place="margin">Wiſ 6. lob 24. Matth
+18. 1 Sam. 8.</note> entruſted them with this office, of keeping and feeding the Sheepe; and in theſe their blind-foulded hearts, they wickedly perverted their originall inſtalment into their place and function, even as the
+<pb n="4" facs="tcp:111701:4"/> unrighteous Steward dealt with the Bills; and pretended both Sheep
+<note place="margin">Luk 16. Ezek. 29. 3</note> and paſture, fold and flocke, both Earth and the Rivers, were all their owne, they were the true proprietors and Lords of all: ſecuring themſelves of force and violence, according to their own pleaſure and fancies, and not according to the Order and Rule of the great KING, to governe with rigor, and ſeverity, not to the great KINGS or Sheepes, but all to their owne Glory, Profit, and advantage.</p>
+            <p>
+               <note place="margin">Zeph. 3. Eſay 46.</note> And thus the Heardſ-men, were turned into Lions, Wolves, Theeves, and Murtherers, building their Shepheards houſes with ſin and unrighteouſneſſe; feeding and pampering themſelves, all their aymes and endeavours being ſet upon Covetouſneſſe and Rapin, and to make prey and havocke of the Sheepe, none daring to controule or demand them, what are yee doing?<note place="margin">Amos 5. Ier. 12. Iam. 5. 1 King.
+21.</note> 
+            </p>
+            <p>But by the wiles and plots of <hi>Ieſabel, Naboth</hi> was put to ſilence, nay to death, rather than that he ſhould maintaine the Right of the LORD, and of his Sheepe; pretending he had blaſphemed GOD and the KING.</p>
+            <p>For their conceited, ſelfe-willed <hi>Ratio Status,</hi> or State Policy, and arrogated greatneſſe, could not other wiſe endure it: what were So<g ref="char:EOLhyphen"/>veraignty and Royalty elſe, and what would become of the Reputa<g ref="char:EOLhyphen"/>tion, if they ſhould not have an abſolute and arbitrary Power to rule and command as they liſted.</p>
+            <p>
+               <note place="margin">Mic. 2.</note> Thus then they fell upon the poore Sheep, with all the fierceneſſe and cruelties they could deviſe, not contenting themſelves with the Wooll and Milke, which they had alienated from the great LORD, but fleyed off both skinne and fleſh together, and devoured it; nay they brake their very bones, and chope them in peeces as for the pot, <note place="margin">Mic. 3.</note> and held it no ſinne, for they would not know of any other Lord and Maſter: and the Vnder-keepers followed the ſame practiſe, ſo that the poore diſmayed Sheep were fleeced and torne and devou<g ref="char:EOLhyphen"/>red on all hands.</p>
+            <p>At all this the lucre-tyed and belly-hired Babblers, not only win<g ref="char:EOLhyphen"/>ked, but they approved of it, ſaying, the Heardſ-men might doe it lawfully, none ought to gainſay it, but be ready at all times to yeeld and offer both Wooll and Milke, nay body, life and all. They were the Heardſ-men appointed by the great Monarch, to whom they would be reſponſible well enough; the ſame was a rich and gratious Lord; that would not deale ſo ſtrictly with the Heardſ-men, but eaſily paſſe by and pardon, what they had done either too much or too little;
+<pb n="5" facs="tcp:111701:4"/> for he being a tender and merciful Maſter, and they alſo (the Babbless themſelves) had abſolute power and authority to aſtoile and abſolve the Heardſ-men of all ſuch exorbitances, in the name and ſtead of the great KING himſelfe. Therefore none ſhould undertake to reprove or taxe them, although they went not in the right paths, and were ſomewhat harſh and froward; they could not be ſo exict and preciſe under the weighty burthen of leading and governing all the ſlock; and it were their duty alſo to entertaine their State, Pompe and Magnificence, for the honour and renowne of their great Maſter.</p>
+            <p>Thus preſumptuouſly they repoſed themſelves in all their wicked<g ref="char:EOLhyphen"/>neſſe,
+<note place="margin">Mic. 3. Zach. 11.</note> greedineſſe and cruelties, upon the LORD GOD, holding themſelves no wayes guilty, or lyable to judgement.</p>
+            <p>Theſe vanities and wilfull courſes, having prevailed thus farre, the Heardſ-men that were appointed here and there, began to grudge and envy one another, and it vexed them ſtill in their ſoule, when ever any ſaw another have a greater ſhare of Honour, Treaſure, Pow<g ref="char:EOLhyphen"/>er, or larger foulds and fatter paſture; then they ſought to provoke one another to Warne, and every one to ſubdue and ſubjugate the o<g ref="char:EOLhyphen"/>ther, either by cunning Plots, and practiſes, or by open force and violence.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>el. 16.</note> And this was cauſed and advanced chiefly, by thoſe hired and ſqueaking-frogs and babblers, who did likewiſe exerciſe their pe<g ref="char:EOLhyphen"/>culiar enmities, about their ſelfe-conceits, and the manifold Idols of their fond opinions, enticing and irritating their Maſters, to Emulation, Iealouſies, Wrath, and implacableneſſe; that every one muſt maintain his ſelfe-choſen Bablers and Idols and defend them to the utmoſt.</p>
+            <p>Yet the Heardſ-men were loth to hazzard their owne heads, to <note place="margin">2 King. 13.
+29.</note> goe ſee one another, but they gathered together a great rabble of daring bloudy Maſtives, whom they had entertained before hand with the milke and fleſh of the Sheep, together with a number of o<g ref="char:EOLhyphen"/>ther fierce and cruell Hounds and ravening Wolves, and other wilde beaſts. Theſe were not only to feed themſelves together with and of the Sheep, to fleece and fley them at pleaſure, that they might grow ſtrong, and gay, and luſty by it, but beſides they were to lead and hale on the Sheep in mighty droves-unto the ſhambles, or butcheries where they were barbarouſly ſet upon, hewne, hackt, and maſſiened, defeated, chaſed, diſperied.</p>
+            <p>And there was appointed players and Minſtrels, Drummes and
+<pb n="6" facs="tcp:111701:5"/> Trumpets, that all the while the rage of this worrying and ſlaughter laſted, muſt fill the aire with ſtrong and chearfull noyles, that the horrid and wofull cry of the miſerable Sheepe might not bee heard nor pityed?</p>
+            <p>And the cunning perverſe Bablers did not at all controul or check this manifeſt and open theeving, robbing, murthering, but ſtill endea<g ref="char:EOLhyphen"/>voured to maintaine their owne, and that Warres and jars had al<g ref="char:EOLhyphen"/>wayes been in the world. <note place="margin">Ezek. 13.</note>
+            </p>
+            <p>Now the Sheep had deſerved no better; it was neceſſary theſe trou<g ref="char:EOLhyphen"/>bles ſhould involve them, for as much as they (the Bablers) had been contemned, and not honoured as they deſerved, nor rewarded ſuffi<g ref="char:EOLhyphen"/>ciently <note place="margin">Mic. 3.</note> with the Wooll and Milke, and Fleſh of the Sheep; the Heardſ-men their Maſters being ſo much ſtraitned and abridged, of reaping their own fill from them.</p>
+            <p>Now although theſe Heardſ-men found, that by all this fleecing, ſleying, worrying and ſlaughtering, their aſſumed ſtate and condition, rather impaired than improved; yet did theſe wilde natured beaſts perſwade them, they were but Dogs, Hogs and vermine, they ventu<g ref="char:EOLhyphen"/>red, and it little mattered for ſheep to be ſhorne unto bloud, diſcom<g ref="char:EOLhyphen"/>ſited, torne, ſcattered, loſt, deſtroyed: Might the Heardſmen but re<g ref="char:EOLhyphen"/>maine Lords and Poſſeſſors of the fould and paſtures, and by their bloud hounds, and ravening Wolves, but maintaine their liberties, to do and diſpoſe of all things at their own pleaſure, to their own glory, advantage and delight, they ſhould no doubt get ſheep enough again from other parts; though the Sow ſhould run away and periſh, no matter, as long as the ſty &amp; draught remained, others would come and be glad of the purchaſe: Better all the Sheep be loſt and deſtroy<g ref="char:EOLhyphen"/>ed, than that the Shepheards ſuffer hazzard, and forfeit their prero<g ref="char:EOLhyphen"/>gative: for without ſuch fleying and worrying, they would never be able to maintaine their greatneſſe, and ſelfe-willed rule and Dominion.</p>
+            <p>The great KING now advertiſed, how his appointed Heardſ<g ref="char:EOLhyphen"/>men abuſed their charge, and the Sheep likewiſe mightily groaning unto him for relieſe, he forthwith ſent his meſſengers unto them, and cauſed that great and wofull cry of the Sheep againſt their perverle and violent adminiſtration, to beſet before their eyes, and the eyes likewiſe of their Bablers, flatterers and Idols, ſaying and upbraiding them, is not the earth mine, and neither yours, nor the Devils are <note place="margin">Pſal. 24.</note> not the Sheep and flockes all mine, and none of your own? have not
+<pb n="7" facs="tcp:111701:5"/> I ſet you to be Shepheards over my Sheep, that with all integrity of
+<note place="margin">Pſal. 50. Ier 27. Pſal. 18. 71 72, 73.</note> heart and faithfulneſſe, you ſhould lead and ſeed the ſame, as did my ſervant <hi>David,</hi> that the Sheep might grow fat and ſtrong, and might reap much fruit by them, wherfore have ye laid my earth thus waſt, and why have you ſo utterly forgotten the duty of your charge entrenching upon the Sheeps Propriety, and performing nothing of <note place="margin">Dan. 7. Lev. 16: Wil. 6. Rom. 13. Ezek.
+34.</note> all I have ordered and commanded you? Ought not the Shepheards ſeed the Flocke? why then do ye eate the fat and weare the Wooll, but yet refuſe to ſeed the Sheep, the weake ye tend not, the ſtrayed ye gather not, the loſt ye ſeeke not, but with force and cruelty yee beare rule over them, and my Sheep are ſcattered as thoſe that have no Shepheard, they goe ſtraying in the mountaines, and are become a prey to the wild beaſts, and none regard them.</p>
+            <p>Why have you thus ſucked up the bloud of my Sheep, ſpilt their <note place="margin">Ezek.
+13.</note> bloud and lifted up your eyes to your Idols, whom yee do feed and entertaine with the ſweate and bloud of my ſheep: Why doe yee thus go on ſtill with fleying, murthering and devouring, and practiſe one oppreſſion upon another, promiſing your ſelves thus to make your poſſeſſion firme?</p>
+            <p>Know then that ſince yee did not ſeed my Sheep, but ſlaughtered &amp; devoured them, and held it no tranſgreſſion at all, thus to diſpoſſeſſe <note place="margin">Mic.
+2.</note> them of what I had beſtowed upon them; nay, joyed and gloryed in your hearts, that amongſt you, yee ſound out devices, how to en<g ref="char:EOLhyphen"/>large your Treaſure, and to encreaſe your power and greatneſſe by the deſtruction, and ruine of the ſheep of my Fould.</p>
+            <p>Therefore yee can henceforth be my Stewards or ſhepheards no <note place="margin">Ier.
+23.</note> longer, but I will viſit you for your evill courſes, and my ſheep whom yee devoured, and abandoned to become the prey and food, both of your owne, and other wilde ranging beaſts, whom you let in upon them, all theſe I will demand of your own hands, and make an utter end of you, taking the care of my Flock, upon my ſelfe; and I will ſeeke them, as a true and faithfull ſhepheard doth ſeeke his own ſheep, and will deliver them, and bring them backe again, from all the pla<g ref="char:EOLhyphen"/>ces, where by your wilfull, violent, and wicked courſes they are ſcat<g ref="char:EOLhyphen"/>tered, but upon your right arme, and upon your right eye ſhall come the Sword; your arme ſhall be cleane dryed up, and your right eye <note place="margin">Zac. 11.</note> utterly darkened; and down yee muſt into the everlaſting darkeneſſe untill yee ſhall have payd the uttermoſt farthing, of all your Robbe<g ref="char:EOLhyphen"/>ries and Worryings.</p>
+            <p>
+               <pb n="8" facs="tcp:111701:6"/> Now therefore howle yee ſhepheards, cry out, and welter your ſelves in duſt and aſhes, yee mighty of the Flocke; for the time is <note place="margin">Ier. 25. Iam.
+5.</note> come and at hand, that yee ſhall be ſlaughtered and ſcattered, and broken into ſhivers, like unto a precious veſſell, and the ſhepheards ſhall not be able to eſcape, and the mighty ones over the Flocke, ſhall not be able to ſave themſelves; then they ſhall cry and howle, that the LORD hath laid waſte their goodly paſtures, and that their pleaſant fields are made deſolate before the fierce anger of the LORD GOD, he hath forſaken his Tabernacles like a yong Lyon, and thus their land is deſtroyed before the wrath of the Tyrant, and before his fiery indignation.</p>
+            <div type="part">
+               <epigraph>
+                  <q>He that hath eares to heare let him heare?</q>
+               </epigraph>
+               <head type="sub">A ſound warning to all Temporall or Civill Govereours, and Officers in Chriſtendome,</head>
+               <p>HE that deſireth to bee a true and ſincere Chriſtian in this vi<g ref="char:EOLhyphen"/>ſible and tranſitory world, where the Kingdome of GOD or <note place="margin">Gal. 1. &amp; 4 1 Ioh. 5. 26 Eph 6. 10. II &amp;c. Mat. 10 15.</note> CHRIST, and that of the Devill are in continuall combate one a<g ref="char:EOLhyphen"/>gainſt another, the ſame doth mightily endanger his ſoule, and layes himſelfe open to very ſtrong temptations, if he be in any place or charge of temporall command or government.</p>
+               <p>For the Divell, as the Prince and GOD of this world in darke<g ref="char:EOLhyphen"/>neſſe and vanity, doth continually ſhoot the ſpirit of Pride into <note place="margin">Ioh. 14. 30. Eph. 1. 2, 3 Pſal
+73. Luk 22 31.</note> mans heart and minde, enticing and drawing him on to hautineſſe, covertouſneſſe, ſenſualities, and other workes of darkeneſſe, and is ſo buſie and reſtleſſe about ſuch charges and offices, that hee gi<g ref="char:EOLhyphen"/>veth not over, till hee hath graſped and ſeized on the governing, and governors of it; to the end, that as a GOD of this world he may by ſuch Miniſters and proper inſtruments of his, whoſe ſence and rea<g ref="char:EOLhyphen"/>ſon are blinded by him, go on ſtill to maintaine and enlarge his king<g ref="char:EOLhyphen"/>dome <note place="margin">2 Cor.
+4: Iam. 4.</note> of ſin and darkneſſe, and every way to weaken as much as in him lies, the Kingdom of GOD or Chriſt.</p>
+               <p>And hence it is, that in his like-affected rule-itching Creatures, <note place="margin">Pſal.
+55. 10. Io. 15. 18 19, 20. Phil. 3. 20. Pſal. 101.</note> he cannot endure any true and ſincere Chriſtian, in any offices to<g ref="char:EOLhyphen"/>gether with him; knowing well that ſuch a one hath the mind of Chriſt, and his converſation is in Heaven, and that in ſuch a place
+<pb n="9" facs="tcp:111701:6"/> and government, he is diſpoſed and reſolved to ſeeke nothing but the Glory of GOD, together with the Temporall and Eternall weale and welfare of the ſubjects and underlings in truſt, for whoſe ſake and good, GOD hath ordained government. The Devill deſireth and <note place="margin">Wiſ. 6. Syr. 19. Mic. 7. 2, 3, 4. Ezek. 22.</note> requireth no other, but ſuch as are full of craft, worldly with and ſubtil<g ref="char:EOLhyphen"/>ty; ſuch as in the greedy purſuit of their owne glory, profit and preſerment, are ready and dextrous to finde out wayes and meanes, how under a gay and glorious ſhew and pretext, they may draw and ſqueeſe out the ſweate and bloud of the poore, ſo to maintaine their pride, glory, and Luxury: in all which courſes, he dreſſeth and trimmeth them with the gloſing garbe of outward hypocri<g ref="char:EOLhyphen"/>ſie,
+<note place="margin">Elay 5. Amos 1. 22 Ier. 11.</note> Complements, and ceremonies; and in all their villanies, vio<g ref="char:EOLhyphen"/>lences, cruelties, and oppreſſions of the poore, and other Sodomi<g ref="char:EOLhyphen"/>ticall practiſes, hee covereth them over with the Purple-robe of CHRISTS moſt precious merit and ſatisfaction, that <note place="margin">2 Pet. 2.</note> thoſe Devills-clawes of theirs, may lye hid and undiſcovered un<g ref="char:EOLhyphen"/>derneath.</p>
+               <p>Therefore now, if it happen, that a true Chriſtian do ſit in any office or government together with ſuch worldly wiſe, and wilely<g ref="char:EOLhyphen"/>ones, <note place="margin">Pſal. 26. 4, 5, 9 10,
+11, 12 Eph. 5.</note> and if according to the power of the true living faith, and ac<g ref="char:EOLhyphen"/>cording to the teſtimony of his conſcience, he doth not aſſent to, and ſide with unrighteouſneſſe, deceit, and other ſuch like workes of the fleſh and darkeneſſe; neither is pleaſed with ſuch violent and perni<g ref="char:EOLhyphen"/>cious courſes of government, nor will any way further or advance the ſame; but deſireth and endeavoureth to do the Wil of God in Chriſt, according to the Law and Teſtimony. The ſame is moſt ſure, that the <note place="margin">1Cor, 1. 12 1 Cor. 6. 14 Pſal. 35. 64 Amos 5. 10 Ier. 20. 10. Pſal. 78. 71 72.</note> Devill, whoſe Kingdom ſuffers by this practice, will raiſe enemies &amp; adverſaries againſt him, and do his utmoſt ſtill by ſlandering reports, and other ſnake-ſnbtle deviſes to entrap and ſell and ruine him.</p>
+               <p>It behooveth then a true Chriſtian, to uſe great care and dili<g ref="char:EOLhyphen"/>gence in the diſcharge of ſuch offices, and with moſt hearty and inſtant prayer, and a ſincere and upright Chriſtian converſation to ſtrive and fight againſt the Devill, that ſetteth ſtill ſo ſiercely <note place="margin">2 Cor. 10: Pſal. 140. Matth. 4. Heb 12. Eph. 6.</note> upon him both without, by the grudges and enmities of his ve<g ref="char:EOLhyphen"/>nemous fiends and inſtruments, and within by his reſtleſſe temtati<g ref="char:EOLhyphen"/>ons: ſo as never and no manner of wayes to conſent and yeeld unto any unrighteouſneſſe; fraud, deceit, deſtruction, or oppreſſion of the poore, upon what pretext and ſhew of reaſon whatſoever, yea, rather to quit and abandon the place and office, nay life
+<pb n="10" facs="tcp:111701:7"/> it ſelfe, that he may keepe his soule ſafe, and not engage and enſlave the <note place="margin">1 Tim. 2. 25</note> ſame to Satan.</p>
+               <p>But and if any ſuch do find and diſcerne in his heart and conſcience and conſeſſe it alſo freely, that the affaires or actions which he is a<g ref="char:EOLhyphen"/>bout, <note place="margin">Rom. 2. 15. 1 Tim. 4. Eze 16 49 Iob. 24.</note> or commanded to performe, do thwant and overthrow the glo<g ref="char:EOLhyphen"/>ry of GOD, and the foundation of the true Faith, and of the love of our NEIGHBOVR; the poore being thereby grinded, di<g ref="char:EOLhyphen"/>ſtreſſed, and oppreſſed ſoule and body, and even forced likewiſe to ſtretch our their hands to unrighteouſneſſe, and over<g ref="char:EOLhyphen"/>reaching <note place="margin">Pſal. 125.</note> of their brethren; inſomuch that being convinced of the hainouſneſſe thereof, by his own conſcience, and the Word of GOD, is in a ſtrait and perplexity about it: yet not withſtanding all this, <note place="margin">Rom. 2. 15. Mic. 7. 2, 3.
+4.</note> he goeth on to performe and execute the ſame things, for feare of offending thoſe GOD-contrary, ſelfe will, mighty Grandees; or to maintaine themſelves in their grace and favour, and to avoyd and ſhelter themſelves from eminent danger, the ſame hath not the mind
+<note place="margin">Tit. 1. 16. Num. 15. 30</note> of Chriſt, but is altogether worldly minded, denyeth the Faith, diſ<g ref="char:EOLhyphen"/>honoureth GOD in the power of his word and in his members, and walketh in the common and well beaten road, and high way of this world which leadeth into Perdition, for as much as he doth feare and <note place="margin">Pſal 58. Eſay 5. Matth 7. Acts. 2. Cha. 5. 19. Pſal. 9. 17. Rom. 6. Iohn. 8. 34. Rom. 2. 23. Eſa. 11. 15. lud. 14. 2 Pet. 2. Rom 14 12</note> honour the Divell, in thoſe his haughty and ſelfe mighty vaſſals more than GOD: forgetteth GOD and his Word in his heart and con<g ref="char:EOLhyphen"/>ſcience, and by the practiſe of ſuch workes doth make himſelfe a bond<g ref="char:EOLhyphen"/>ſlave of Satan, and GOD the ſearcher of the heart takes no excuſe here, admits of no ſubtle evaſion, or putting it off on this or that, ſtraight command, tyrannicall threats or the like; much leſſe will the out<g ref="char:EOLhyphen"/>ward ceremoniall hypocriſie, in going to Church, confeſſion, commu<g ref="char:EOLhyphen"/>nion, availe or bayle him: but in the day of judgement he muſt him<g ref="char:EOLhyphen"/>ſelfe give account unto GOD, of whatſoever he hath preſumptouſly done, and perpetrated againſt the Dictates and warning of his own conſcience. And there is no Prince nor Potentate whatſoever ſhall dare, or will be able to ſhield or protect him, againſt the ſevere and heavy juſtice and judgement of GOD, <hi>Pſal. 49. Pſal. 146.</hi>
+               </p>
+               <p>For every one both higher and under-governor ſhal be judged ac<g ref="char:EOLhyphen"/>cording to the bottome of their hearts, and according to the workes <note place="margin">2 Cor. 15. 10. Rom. 14 12 Col 5. 24. Rev. 2.
+23.</note> iſſued and ſtreamed forth from thence, which are written and engra<g ref="char:EOLhyphen"/>ven upon their ſoules, and follow them for ever: for having not ſer<g ref="char:EOLhyphen"/>ved God and his neighbor, according as the office of the ordinance of God required it, but the Devil, who is unrighteouſneſſe it ſelfe; there<g ref="char:EOLhyphen"/>fore
+<pb n="11" facs="tcp:111701:7"/> alſo have his ſervants, himſelfe for their reward; as on the con<g ref="char:EOLhyphen"/>trary
+<note place="margin">Ier. 17. 1. Rev. 14</note> thoſe faithful ſervants of GOD, that for truth righteouſneſſe like, and for the love of their neighbour reſiſted the Kingdome of the Devill in deed and in truth, to the hazard and loſſe of Liberty, eſtate, and life it ſelfe, ſhall have GOD himſelfe for their great Reward and Praiſe, and Glory, and they ſhall ſee how the wicked ſhall be recom<g ref="char:EOLhyphen"/>penced, and their violence returned and powred out with vengeance upon their own heads. <note place="margin">Pſal. 68. Syr. 14. 17, 18.</note>
+               </p>
+               <p>Every one therefore ſearch his own conſcience, and forſake the Kingdom of Sathan, leaſt his ſoule be inſnared with everlaſting dark<g ref="char:EOLhyphen"/>neſſe, for the time of judgement is neare at hand, 1 <hi>Cor.</hi> 13. 5. <hi>Wiſ</hi> 6 O LORD! who ſhall d well in the Hill of thy Holineſſe? He that doth no evill to his neighbour; in whoſe eyes a vile perſon is con<g ref="char:EOLhyphen"/>temned; He that honoureth them that feare the LORD. <hi>Pſal.</hi> 15.</p>
+            </div>
+            <div type="part">
+               <head>A diſcovery how Chriſt is driven out of his Temple, and he abominat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of deſolation ſet up in the holy pl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, both by the old and new Popes, written in the yeare, 1629. DAN 9. ver. 27.</head>
+               <p>BY the wings there ſhall ſtand abomination of deſolation, and it is determined, that it ſhall diſtill down over the deſolation unto the end.</p>
+               <p>
+                  <hi>CHRIST,</hi> The light of life and Throne of mercy, is ever preſent <note place="margin">1 Iohn 1. Rom: 3. Matth. 28: Epheſ. 4.</note> with his People unto the end of the world, and hath power both in Heaven and on earth as a KING and head of his Church.</p>
+               <p>But when by the workes of darkneſſe and unrighteouſneſſe, he is driven out of his ſpirituall Temple, <hi>viz.</hi> out of the Soule of man; and an abhomination of deſolation ſet up there by the deceit of the falſe Prophets, then Antichriſt prevaileth, and is powerfull in the ſame.</p>
+               <p>Of this Abomination <hi>Custerus</hi> the Papiſt writeth his <hi>Enchiridium</hi> in manner as followeth.</p>
+               <p>O what a great mercy of God is it upon the Chriſtians, worthy to be compared with his greateſt benefits, that here on earth there is one <note place="margin">The man of ſin. 2 Theſ.
+2.</note> ſinfull man like unto ourſelvs, whom God for our ſakes hath ordained to be the witneſſe of his truth, the interpreter of his minde, and the
+<pb n="12" facs="tcp:111701:8"/> teacher of the Chriſtian people; Whoſe tongue he ſo moveth that it deceives not; whoſe ſpeech he ſo guideth, that it teacheth no errour, whoſe pen he ſo governeth that it deſtroyeth hereſies. And all this not indeed for that Mans; or Perſons ſake; who may happen to bee wicked, vicious, and altogether unworthy, but for the Elects ſake, to whom GOD doth vouchſafe his mercy, for all things, ſaith the Apoſtle, are to be done for the Elects ſake. 2 <hi>Tim.</hi> 2. 10. We grant indeed that it may come to paſſe, an Heire and ſucceſſours of <hi>Peters</hi> Chair to be a worſhipper of Idols, to have no ſound eſteem or oppini<g ref="char:EOLhyphen"/>on of the Faith; nay to give himſelfe over to Diabolicall Arts altoge<g ref="char:EOLhyphen"/>ther. But as theſe are that mans own peculiar or perſonall vices, ſo they clearly teſtifie unto us, the goodneſſe of God, who doth convey his gifts and graces unto us by ſuch ſtinking rotten conduites, having no other ayme, but that we may receive good by it, let the conduit otherwiſe (whereby we receive it) be affected and diſpoſed, as it will.</p>
+               <trailer>Thus far <hi>Coſterus</hi> the Papiſt.</trailer>
+            </div>
+            <div type="part">
+               <p>And doe not the new Popelings and yong Antechriſts vaunt the <note place="margin">2 Tim.
+3.</note> ſelf ſame thing of themſelves, and their pretended office and Authori<g ref="char:EOLhyphen"/>ty? for albeit they know nothing inwardly in their hearts, of Chriſt the covenant of the new Teſtament, that living Law in his members <note place="margin">1 Iohn. 4. Heb. 10. Col 1. 4. Eph. 2.</note> according to which the true beleevers are united togetherin the ſpi<g ref="char:EOLhyphen"/>rit by the bond of peace; But do rather according to the courſe of this world and according to the Prince of the Power of the Aire, <hi>viz.</hi> according to the ſpirit that now hath his worke in the children of unbeleife, lead their converſation in the luſts of the fleſh and carnall reaſon, freely acknowledging that they do not prove examples to the Flock, and not being able to ſay with <hi>Paul,</hi> be ye followers of me, even <note place="margin">1 Pet. 5. 3, 1 Cor. 11. Phil. 3. 2 Pet 2. 2 Theſ.
+2.</note> as I alſo am of Chriſt; yet nevertheleſſe, they ceaſe not to brag with ſwelling words, and cunning termes, how they doe and per<g ref="char:EOLhyphen"/>forme all things in the name and ſtead of Chriſt, by whom they were ſent and appointed as Angels and Meſſengers; what they ſpeake and propound muſt be the Word of God, and be eſteemed as Oracles from heaven; that by them, though never ſo ſinfull men, and uncleane veſ<g ref="char:EOLhyphen"/>ſels, <note place="margin">Pſal.
+12.</note> God is pleaſed to teach and feed the ſoules, to pardon their ſins, &amp; to impart the holy Ghoſt, and all manner of ſpirituall bleſſings: pre<g ref="char:EOLhyphen"/>tending God deales no more now, as in former times: the heavens are ſhut up now, ſince Chriſts aſcending to heaven, and God doth in<g ref="char:EOLhyphen"/>ſtruct and governe and aſſoyle them now by them, and that therefore we ought to repaire and addreſſe our ſelves to them, making men be<g ref="char:EOLhyphen"/>leeve; that as the next and principal offices and attendants of a Prince are able to prefer a poore mans petition, and procure a gracious and
+<pb n="13" facs="tcp:111701:8"/> fruitfull hearing; wherefore they are deſervedly honoured and re<g ref="char:EOLhyphen"/>warded; ſo they are the next and mightieſt Miniſters, nay Meanes with God, able to prefer and redreſſe the cauſe of poor ſinners: to the therefore they ſhould have their recourſe for helpe and aſſiſtance; and by reaſon thereof yeeld unto them all honour &amp; deſerved recompence</p>
+               <p>But theſe new Popelings do complaine, where are the men now-a-dayes, <note place="margin">Mic.
+3. <hi>Luther</hi> in his <hi>Poſtill</hi> over the Epiſtle on the 2 Sun<g ref="char:EOLhyphen"/>day after
+<hi>Epiphany</hi> fol. 70.</note> that ſeeke unto, honour and reward us for all this? There is none comes any more to ſhew himſelfe to the Priſts, as Chriſt com<g ref="char:EOLhyphen"/>manded. But we are rather diſpiſed, therefore alſo are the times ſo bad, and all theſe WARRS are come upon us.</p>
+               <p>Behold, deare friends, theſe are the new papiſticall Idol-Interceſ<g ref="char:EOLhyphen"/>ſors, and Saviours, which men did burthen themſelves withall, like un<g ref="char:EOLhyphen"/>to <hi>Micha, Jeroboam,</hi> and others, which do not enter into the Fould by Chriſt, but juſtifie themſelves before men, &amp; are eminent among them <note place="margin">2 Tim. 4. Luk. 16. Phil. 3.</note> as ſtanding in Gods ſtead, though indeed abominable in his ſight be<g ref="char:EOLhyphen"/>ing altogether earthly minded, ſerving their Bellies, and being lead a<g ref="char:EOLhyphen"/>way captive, like unto the Children of this world under the power of darkeneſſe, to performe the will of the fleſh and carnall Reaſon.</p>
+               <p>
+                  <note place="margin">Iohn. 10. Acts. 10.</note> Now although Chriſt the Arch-ſhepheard never ſent ſuch withered branches and members of Satan into his Church, they being indeed but Wolves; and coming only to rob and worry ſoules, yet the world doth love and doat on them, as their Idols, and the children of this world are grown wrath for their ſakes, and to defend and maintaine theſe Idols of theirs, thereby deſtroying the land and butchering the poore and guiltleſſe ſheep without remorſe or pity. <note place="margin">Revel. 11. Zac. 11</note>
+               </p>
+               <p>
+                  <note place="margin">Ezek. 13.</note> Let them, I pray, go now, make themſelves a wall and ſtand in the gap, that God proceed no further with his judgements, but draw back his wrath and ſmarting rod over <hi>Germany,</hi> that ſo it may ap<g ref="char:EOLhyphen"/>peare, whether they do know God and be ſent by him indeed.</p>
+               <p>Ah <hi>Germany</hi>! thy Prophets are like Foxes, they go not up into the Gaps, they do not make themſelves a fence about the houſe of <hi>Iſrael,</hi> they ſtand not in the battaile in the day of the Lord; they brag much indeed, and take great paines to maintain their own; comfort the people in their adverſity, by ſaying peace, peace, here is Chriſt, here he is in the Church; ſuch evils will not betide us. But alas poore <hi>Germa<g ref="char:EOLhyphen"/>ny</hi> 
+                  <note place="margin">Eſay
+3. Col. 2. 1 Iohn <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> thy Comforters have beguiled thee, and confounded the way, wherein thou ſhouldeſt walke. They have perſwaded thee, to baniſh Chriſt the light of life, wherein thou ſhouldſt have walked, out of the Temple of thy heart, &amp; to entertain there thoſe Antichriſtian abomi<g ref="char:EOLhyphen"/>nations, which thou doſt cleave unto. Thus they have brought thee <note place="margin">Ier. 38.</note> nto the mire, and there they leave thee helpleſſe, and hopeleſſe.</p>
+               <p>
+                  <pb n="14" facs="tcp:111701:9"/> But now, in what account theſe daubbers and pillow-makers are
+<note place="margin">Ezek. 15.</note> with GOD; how they have taken Bribes, cleared and abſolved all Theeves, and ſwearers according to the long and large rowle of their <note place="margin">Zac.
+5.</note> conſtitutions, concluſions, and Idol-writings; ſtrengthened the hands of the wicked, and gathered the Kings of the earth together in<g ref="char:EOLhyphen"/>to <note place="margin">Rev. 16.</note> the Battaile, adjudging therby to death the ſoules that ſhould have lived: and profaning GOD in his People, only for their bellies ſake, <note place="margin">Eſay 48. 11</note> all this God now brings forth to light, and ſuffers it to light on the houſe of him that ſtealeth, and on the houſe of him that ſweares falſly by his name, and boaſts of Chriſt.</p>
+               <p>
+                  <note place="margin">Ezek. 13.</note> For a ſtormy winde of GODS fury draweth on upon them, and over-flowing ſhowers of his anger, and great hailſtones in fury, bring it downe to the ground, that the very foundations therefore diſcovered.</p>
+               <p>Loe theſe are thy Prophets that preach peace unto thee, when there is no peace, comforting the people in their carnall courſes, to entrap the ſoules both of old and yong, and promiſing life and Sal<g ref="char:EOLhyphen"/>vation unto them, that ſo they may hang and depend on ſuch Idols, and Mediators, and forſake Chriſt the living ſpring of the water of life.</p>
+               <p>
+                  <note place="margin">Ezek. 34.</note> Therefore now, God will take himſelfe the care of his Floeks, and deliver his People from ſuch Idols and their ſhepheards, that the Glory of his name ſhall no longer be polluted, and that the poore fully ſheep may bee reſcued from the dangers they are in thralled with all, both in ſoule and body.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111701:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
